@@ -12,6 +12,7 @@ namespace Hospital
         {
             Console.WriteLine();
             Console.ReadKey();
+            Console.WriteLine();
         }
     }
 }
