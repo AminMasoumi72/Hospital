@@ -10,7 +10,7 @@ namespace Hospital
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("salam");
+            Console.WriteLine();
             Console.ReadKey();
         }
     }
